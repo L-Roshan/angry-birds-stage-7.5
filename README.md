@@ -1,1 +1,1 @@
-# angry-birds-stage-7.5
+# AngryBirdsStage7
